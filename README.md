@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shalinis-2005/leet-code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/shalinis-2005/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/shalinis-2005/leet-code/tree/master/0575-distribute-candies) |
+| [0929-unique-email-addresses](https://github.com/shalinis-2005/leet-code/tree/master/0929-unique-email-addresses) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shalinis-2005/leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/shalinis-2005/leet-code/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/shalinis-2005/leet-code/tree/master/1929-concatenation-of-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shalinis-2005/leet-code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/shalinis-2005/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/shalinis-2005/leet-code/tree/master/0575-distribute-candies) |
+| [0929-unique-email-addresses](https://github.com/shalinis-2005/leet-code/tree/master/0929-unique-email-addresses) |
 | [1512-number-of-good-pairs](https://github.com/shalinis-2005/leet-code/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/shalinis-2005/leet-code/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [0929-unique-email-addresses](https://github.com/shalinis-2005/leet-code/tree/master/0929-unique-email-addresses) |
 <!---LeetCode Topics End-->
