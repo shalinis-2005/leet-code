@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shalinis-2005/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/shalinis-2005/leet-code/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shalinis-2005/leet-code/tree/master/0189-rotate-array) |
+| [1512-number-of-good-pairs](https://github.com/shalinis-2005/leet-code/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/shalinis-2005/leet-code/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shalinis-2005/leet-code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shalinis-2005/leet-code/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shalinis-2005/leet-code/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shalinis-2005/leet-code/tree/master/0258-add-digits) |
+| [1512-number-of-good-pairs](https://github.com/shalinis-2005/leet-code/tree/master/1512-number-of-good-pairs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/shalinis-2005/leet-code/tree/master/2119-a-number-after-a-double-reversal) |
 ## Two Pointers
 |  |
@@ -45,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shalinis-2005/leet-code/tree/master/0258-add-digits) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/shalinis-2005/leet-code/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/shalinis-2005/leet-code/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
