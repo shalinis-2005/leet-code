@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shalinis-2005/leet-code/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shalinis-2005/leet-code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shalinis-2005/leet-code/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/shalinis-2005/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shalinis-2005/leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/shalinis-2005/leet-code/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/shalinis-2005/leet-code/tree/master/1929-concatenation-of-array) |
@@ -30,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shalinis-2005/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/shalinis-2005/leet-code/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shalinis-2005/leet-code/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/shalinis-2005/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shalinis-2005/leet-code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shalinis-2005/leet-code/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shalinis-2005/leet-code/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/shalinis-2005/leet-code/tree/master/0349-intersection-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -58,9 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shalinis-2005/leet-code/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/shalinis-2005/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/shalinis-2005/leet-code/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/shalinis-2005/leet-code/tree/master/1512-number-of-good-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/shalinis-2005/leet-code/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
