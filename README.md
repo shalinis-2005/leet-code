@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/shalinis-2005/leet-code/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shalinis-2005/leet-code/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/shalinis-2005/leet-code/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shalinis-2005/leet-code/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/shalinis-2005/leet-code/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shalinis-2005/leet-code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shalinis-2005/leet-code/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shalinis-2005/leet-code/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
