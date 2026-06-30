@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/shalinis-2005/leet-code/tree/master/0258-add-digits) |
 | [1512-number-of-good-pairs](https://github.com/shalinis-2005/leet-code/tree/master/1512-number-of-good-pairs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/shalinis-2005/leet-code/tree/master/2119-a-number-after-a-double-reversal) |
+| [2469-convert-the-temperature](https://github.com/shalinis-2005/leet-code/tree/master/2469-convert-the-temperature) |
 ## Two Pointers
 |  |
 | ------- |
