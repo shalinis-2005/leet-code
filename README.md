@@ -74,12 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/shalinis-2005/leet-code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/shalinis-2005/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/shalinis-2005/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/shalinis-2005/leet-code/tree/master/0575-distribute-candies) |
 | [0929-unique-email-addresses](https://github.com/shalinis-2005/leet-code/tree/master/0929-unique-email-addresses) |
 | [1512-number-of-good-pairs](https://github.com/shalinis-2005/leet-code/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shalinis-2005/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/shalinis-2005/leet-code/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
@@ -90,9 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shalinis-2005/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0929-unique-email-addresses](https://github.com/shalinis-2005/leet-code/tree/master/0929-unique-email-addresses) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shalinis-2005/leet-code/tree/master/0011-container-with-most-water) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shalinis-2005/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
