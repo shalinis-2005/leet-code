@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shalinis-2005/leet-code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shalinis-2005/leet-code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shalinis-2005/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/shalinis-2005/leet-code/tree/master/0088-merge-sorted-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shalinis-2005/leet-code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shalinis-2005/leet-code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shalinis-2005/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/shalinis-2005/leet-code/tree/master/0088-merge-sorted-array) |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0929-unique-email-addresses](https://github.com/shalinis-2005/leet-code/tree/master/0929-unique-email-addresses) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shalinis-2005/leet-code/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
