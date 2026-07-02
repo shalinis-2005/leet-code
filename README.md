@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shalinis-2005/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shalinis-2005/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/shalinis-2005/leet-code/tree/master/0575-distribute-candies) |
+| [0704-binary-search](https://github.com/shalinis-2005/leet-code/tree/master/0704-binary-search) |
 | [0929-unique-email-addresses](https://github.com/shalinis-2005/leet-code/tree/master/0929-unique-email-addresses) |
 | [1004-max-consecutive-ones-iii](https://github.com/shalinis-2005/leet-code/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shalinis-2005/leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shalinis-2005/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/shalinis-2005/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shalinis-2005/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/shalinis-2005/leet-code/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/shalinis-2005/leet-code/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
