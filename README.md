@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/shalinis-2005/leet-code/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/shalinis-2005/leet-code/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shalinis-2005/leet-code/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shalinis-2005/leet-code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/shalinis-2005/leet-code/tree/master/0575-distribute-candies) |
 | [0929-unique-email-addresses](https://github.com/shalinis-2005/leet-code/tree/master/0929-unique-email-addresses) |
 | [1512-number-of-good-pairs](https://github.com/shalinis-2005/leet-code/tree/master/1512-number-of-good-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shalinis-2005/leet-code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/shalinis-2005/leet-code/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shalinis-2005/leet-code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shalinis-2005/leet-code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shalinis-2005/leet-code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
