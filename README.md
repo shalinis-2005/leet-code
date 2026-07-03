@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shalinis-2005/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shalinis-2005/leet-code/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/shalinis-2005/leet-code/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shalinis-2005/leet-code/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shalinis-2005/leet-code/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/shalinis-2005/leet-code/tree/master/0387-first-unique-character-in-a-string) |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shalinis-2005/leet-code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shalinis-2005/leet-code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
