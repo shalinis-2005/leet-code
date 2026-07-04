@@ -4,18 +4,18 @@ class Solution {
     {
         return false;
     }  
-    int[] count=new int[26];
-    for(char c:s.toCharArray())
+    int[] freq=new int[26];
+    for(char ch:s.toCharArray())
     {
-        count[c-'a']++;
+        freq[ch-'a']++;
     } 
-    for(char c:t.toCharArray())
+    for(char ch:t.toCharArray())
     {
-        count[c-'a']--;
+        freq[ch-'a']--;
     }
-    for(int num:count)
+    for(int val:freq)
     {
-        if(num!=0)
+        if(val!=0)
         {
             return false;
         }
