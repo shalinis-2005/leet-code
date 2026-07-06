@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shalinis-2005/leet-code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shalinis-2005/leet-code/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/shalinis-2005/leet-code/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/shalinis-2005/leet-code/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/shalinis-2005/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/shalinis-2005/leet-code/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/shalinis-2005/leet-code/tree/master/0704-binary-search) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/shalinis-2005/leet-code/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/shalinis-2005/leet-code/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/shalinis-2005/leet-code/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/shalinis-2005/leet-code/tree/master/0876-middle-of-the-linked-list) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/shalinis-2005/leet-code/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
