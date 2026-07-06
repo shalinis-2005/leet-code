@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shalinis-2005/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shalinis-2005/leet-code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shalinis-2005/leet-code/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/shalinis-2005/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/shalinis-2005/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/shalinis-2005/leet-code/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/shalinis-2005/leet-code/tree/master/0349-intersection-of-two-arrays) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/shalinis-2005/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/shalinis-2005/leet-code/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/shalinis-2005/leet-code/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/shalinis-2005/leet-code/tree/master/1004-max-consecutive-ones-iii) |
