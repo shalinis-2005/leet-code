@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shalinis-2005/leet-code/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/shalinis-2005/leet-code/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shalinis-2005/leet-code/tree/master/0225-implement-stack-using-queues) |
 ## Linked List
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/shalinis-2005/leet-code/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shalinis-2005/leet-code/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/shalinis-2005/leet-code/tree/master/0303-range-sum-query-immutable) |
 ## Matrix
