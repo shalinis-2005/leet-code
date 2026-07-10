@@ -1,22 +1,38 @@
 class Solution {
+    public boolean check(char a,char b)
+    {
+        if((a=='['&&b==']')||(a=='{'&&b=='}')||(a=='('&&b==')'))
+        {
+            return true;
+        }
+        return false;
+    }
     public boolean isValid(String s) 
     {
-        Stack<Character> stack = new Stack<>();
-        for(char c : s.toCharArray())
-         {
-            if (c == '(' || c == '{' || c == '[')
-             {
-                stack.push(c);
-             } 
+        int sLength=s.length(),i;
+        Stack<Character> s1=new Stack<>();
+        for(i=0;i<sLength;i++)
+        {
+            if(s.charAt(i)=='('||s.charAt(i)=='['||s.charAt(i)=='{')
+            {
+                s1.push(s.charAt(i));
+            }
             else
-             {
-                if (stack.isEmpty()) return false;
-                char top = stack.pop();
-                if (c == ')' && top != '(') return false;
-                if (c == '}' && top != '{') return false;
-                if (c == ']' && top != '[') return false;
+            {
+                if(s1.isEmpty()==true)
+                {
+                    return false;
+                }
+                if(check(s1.peek(),s.charAt(i))==false)
+                {
+                    return false;
+                }
+                else
+                {
+                    s1.pop();
+                }
             }
         }
-        return stack.isEmpty();
+        return s1.isEmpty();
     }    
     }
