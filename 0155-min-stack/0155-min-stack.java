@@ -1,45 +1,37 @@
 import java.util.*;
 class MinStack {
-    Stack<Integer> s1=new Stack<>();
-    Stack<Integer> minStack=new Stack<>();
+    Stack<int[]> s1=new Stack<>();
     public MinStack() {
         
     }
     
-    public void push(int value) {
-       s1.push(value); 
-       if(minStack.isEmpty() ||value <= minStack.peek())
-       minStack.push(value);
+    public void push(int value) 
+    {
+        if(s1.isEmpty()==true)
+        {
+            s1.push(new int[]{value,value});
+        }
+        else
+        {
+            s1.push(new int[]{value,Math.min(s1.peek()[1],value)});
+        }
     }
     
-    public void pop() {
-        if(s1.peek().equals(minStack.peek()))
-        minStack.pop();
+    public void pop() {//O(1)
         s1.pop();
     }
     
     public int top() {
-        return s1.peek();
+        var it=s1.peek();
+        int value=it[0];
+        return value;
     }
     
     public int getMin() {
-        return minStack.peek();
-       // int minElement=Integer.MAX_VALUE;
-        //Stack<Integer> s2=new Stack<>();
-        //while(!s1.isEmpty())
-        //{
-           // int value=s1.peek();
-            //minElement=Math.min(minElement,value);
-            //s2.push(value);
-            //s1.pop();
-        //}
-        //while(!s2.isEmpty())
-       // {
-            //s1.push(s2.peek());
-           // s2.pop();
-        //
+        var it=s1.peek();
+        int minValue=it[1];
+        return minValue;
         }
-
 }
 
 
