@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/shalinis-2005/leet-code/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/shalinis-2005/leet-code/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/shalinis-2005/leet-code/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/shalinis-2005/leet-code/tree/master/0739-daily-temperatures) |
 | [0929-unique-email-addresses](https://github.com/shalinis-2005/leet-code/tree/master/0929-unique-email-addresses) |
 | [1004-max-consecutive-ones-iii](https://github.com/shalinis-2005/leet-code/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shalinis-2005/leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shalinis-2005/leet-code/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shalinis-2005/leet-code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shalinis-2005/leet-code/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/shalinis-2005/leet-code/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shalinis-2005/leet-code/tree/master/0053-maximum-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/shalinis-2005/leet-code/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
