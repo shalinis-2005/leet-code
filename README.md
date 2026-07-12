@@ -220,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shalinis-2005/leet-code/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/shalinis-2005/leet-code/tree/master/0739-daily-temperatures) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/shalinis-2005/leet-code/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
