@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/shalinis-2005/leet-code/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/shalinis-2005/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/shalinis-2005/leet-code/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shalinis-2005/leet-code/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shalinis-2005/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/shalinis-2005/leet-code/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/shalinis-2005/leet-code/tree/master/0704-binary-search) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/shalinis-2005/leet-code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shalinis-2005/leet-code/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/shalinis-2005/leet-code/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shalinis-2005/leet-code/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shalinis-2005/leet-code/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shalinis-2005/leet-code/tree/master/0901-online-stock-span) |
 ## Linked List
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shalinis-2005/leet-code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/shalinis-2005/leet-code/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shalinis-2005/leet-code/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shalinis-2005/leet-code/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shalinis-2005/leet-code/tree/master/0901-online-stock-span) |
 ## Database
