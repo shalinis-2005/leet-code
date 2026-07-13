@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/shalinis-2005/leet-code/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/shalinis-2005/leet-code/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/shalinis-2005/leet-code/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/shalinis-2005/leet-code/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/shalinis-2005/leet-code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shalinis-2005/leet-code/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/shalinis-2005/leet-code/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/shalinis-2005/leet-code/tree/master/0901-online-stock-span) |
 ## Matrix
 |  |
 | ------- |
@@ -223,8 +225,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/shalinis-2005/leet-code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/shalinis-2005/leet-code/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/shalinis-2005/leet-code/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/shalinis-2005/leet-code/tree/master/0901-online-stock-span) |
 ## Database
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/shalinis-2005/leet-code/tree/master/0197-rising-temperature) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/shalinis-2005/leet-code/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
