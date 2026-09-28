@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shalinis-2005/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shalinis-2005/leet-code/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/shalinis-2005/leet-code/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/shalinis-2005/leet-code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shalinis-2005/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shalinis-2005/leet-code/tree/master/0033-search-in-rotated-sorted-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/shalinis-2005/leet-code/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/shalinis-2005/leet-code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shalinis-2005/leet-code/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/shalinis-2005/leet-code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shalinis-2005/leet-code/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shalinis-2005/leet-code/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shalinis-2005/leet-code/tree/master/0242-valid-anagram) |
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/shalinis-2005/leet-code/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shalinis-2005/leet-code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shalinis-2005/leet-code/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shalinis-2005/leet-code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
