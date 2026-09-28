@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shalinis-2005/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/shalinis-2005/leet-code/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shalinis-2005/leet-code/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/shalinis-2005/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shalinis-2005/leet-code/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shalinis-2005/leet-code/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/shalinis-2005/leet-code/tree/master/0387-first-unique-character-in-a-string) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shalinis-2005/leet-code/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/shalinis-2005/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/shalinis-2005/leet-code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shalinis-2005/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shalinis-2005/leet-code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shalinis-2005/leet-code/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shalinis-2005/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shalinis-2005/leet-code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shalinis-2005/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shalinis-2005/leet-code/tree/master/0144-binary-tree-preorder-traversal) |
@@ -323,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shalinis-2005/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/shalinis-2005/leet-code/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
